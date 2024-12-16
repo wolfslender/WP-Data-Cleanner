@@ -22,10 +22,6 @@ WP Database Cleaner is a WordPress plugin designed to optimize and clean your Wo
 2. Use the provided buttons to optimize the database or clean specific types of data.
 3. View database statistics to monitor the status of your database.
 
-## Screenshots
-
-![Dashboard](assets/screenshots/dashboard.png)
-
 ## Changelog
 
 ### 1.0
